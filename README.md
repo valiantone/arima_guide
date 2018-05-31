@@ -10,6 +10,3 @@ To follow along with the walkthrough, ensure that you have a functional Jupyter 
 + pandas
 + seaborn(and matplotlib)
 + statsmodels
-
-If you are missing any of the following packages use the following command structure to install with pip.
-> pip install numpy pandas seaborn statsmodels
