@@ -9,9 +9,9 @@ def myapp():
     return message
 
 def get_prepared_forecasts():
-    """
-    returns my_result2.values (A list of your results 12 forecasts for 2021)
-    """
+    # returns my_result2.values (A list of your results 12 forecasts for 2021)
+    # add all your code here
+    return
 
 @app.route('/predict', methods = ['POST']) # this creates an endpoint for /predict
 def predict():
